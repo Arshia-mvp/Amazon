@@ -1,0 +1,3648 @@
+.box{
+    width: 1366px;
+    height: 70px;
+    background-color: #010c16;
+    position: absolute;
+}
+
+.img{
+    position: absolute;
+    width: 118px;
+    top: 16px;
+    left: 22px;
+}
+
+.a8{
+    color: #cccccc;
+    position: absolute;
+    left: 165px;
+    top: 16px;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.a9{
+    color: #ffffff;
+    position: absolute;
+    left: 165px;
+    top: 33px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
+    text-decoration: none;
+}
+
+.button1{
+    width: 52px;
+    height: 43px;
+    background-color: #e6e6e6f1;
+    border: 2px solid #E6E6E6;
+    position: absolute;
+    left: 325px;
+    top: 14px;
+}
+
+.button1:hover{
+    background-color: #e6e6e6d7;
+    border: 2px solid #e6e6e6d7;
+}
+
+.p2{
+    color: rgba(0, 0, 0, 0.680);
+    position: absolute;
+    top: 8px;
+    left: 15px;
+}
+
+.p2:hover{
+    color: black;
+}
+
+input{
+    position: absolute;
+    left: 377px;
+    top: 13px;
+    height: 45px;
+    width: 600px;
+    color: black;
+    font-weight: 600;
+}
+
+input::placeholder{
+    font-weight: 600;
+}
+
+.button{
+    width: 45px;
+    height: 43px;
+    background-color: rgba(255, 166, 0, 0.720);
+    position: absolute;
+    left: 932px;
+    top: 14px;
+    border: 2px solid rgba(255, 166, 0, 0.400);
+}
+
+.button:hover{
+    background-color: rgba(255, 166, 0, 0.850);
+}
+
+i{
+    font-size: 21px;
+    color: rgba(0, 0, 0, 0.730);
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+i1{
+    color: rgba(255, 255, 255, 0.850);
+    position: absolute;
+    left: 1005px;
+    font-size: 21px;
+    top: 27px;
+}
+
+.a1{
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    left: 1030px;
+    top: 24px;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.a2{
+    color: white;
+    position: absolute;
+    top: 17px;
+    left: 1070px;
+    font-size: 13px;
+    text-decoration: none;
+}
+
+.a3{
+    color: white;
+    font-weight: 700;
+    font-size: 14px;
+    position: absolute;
+    left: 1070px;
+    top: 31px;
+    text-decoration: none;
+}
+
+.a4{
+    color: white;
+    position: absolute;
+    left: 1203px;
+    top: 17px;
+    font-size: 13px;
+    text-decoration: none;
+}
+
+.a5{
+    color: white;
+    font-weight: 700;
+    font-size: 14px;
+    position: absolute;
+    left: 1203px;
+    top: 31px;
+    text-decoration: none;
+}
+
+i2{
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    left: 1275px;
+    top: 22px;
+}
+
+.a6{
+    text-decoration: none;
+    color: rgba(255, 166, 0, 0.836);
+    font-size: 17px;
+    position: absolute;
+    left: 1286.5px;
+    top: 0px;
+    font-weight: 700;
+}
+
+.a7{
+    color: rgba(255, 255, 255, 0.836);
+    text-decoration: none;
+    font-size: 16px;
+    position: absolute;
+    left: 1312px;
+    top: 33px;
+    font-weight: 700;
+}
+
+.box1{
+    width: 1366px;
+    height: 40px;
+    background-color: rgba(0, 0, 14, 0.85);
+    position: absolute;
+    top: 70px;
+}
+
+.img1{
+    width: 24px;
+    height: 20px;
+    position: absolute;
+    left: 20px;
+    top: 10px;
+}
+
+.a11{
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    left: 50px;
+    top: 9px;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.a11:hover{
+    border: 1px solid white;
+    width: 21px;
+    height: 27px;
+    border-radius: 2px;
+}
+
+.TodaysDeals{
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    left: 90px;
+    top: 8px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.TodaysDeals:hover{
+    border: 1px solid white;
+    width: 88px;
+    height: 27px;
+    border-radius: 2px;
+}
+
+.Registry{
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    left: 200px;
+    top: 8px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.Registry:hover{
+    border: 1px solid white;
+    width: 55px;
+    height: 27px;
+    border-radius: 2px;
+}
+
+.PrimeVideo{
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    left: 278px;
+    top: 8px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.PrimeVideo:hover{
+    border: 1px solid white;
+    width: 81px;
+    height: 27px;
+    border-radius: 2px;
+}
+
+.GiftCards{
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    left: 380px;
+    top: 8px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.GiftCards:hover{
+    border: 1px solid white;
+    width: 66px;
+    height: 27px;
+    border-radius: 2px;
+}
+
+.CustomerService{
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    left: 470px;
+    top: 8px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.CustomerService:hover{
+    border: 1px solid white;
+    width: 114px;
+    height: 27px;
+    border-radius: 2px;
+}
+
+.Sell{
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    left: 610px;
+    top: 8px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.Sell:hover{
+    border: 1px solid white;
+    width: 26px;
+    height: 27px;
+    border-radius: 2px;
+}
+
+.box2{
+    width: 1366px;
+    height: 507px;
+    background-color: white;
+    position: absolute;
+    top: 110px;
+}
+
+.img2{
+    width: 1366px;
+    height: 507px;    
+    margin-top: 0px;
+}
+
+.button2{
+    width: 55px;
+    height: 55px;
+    color: white;
+    background-color: rgba(255, 68, 0, 0);
+    border: 2px solid rgba(255, 68, 0, 0);
+    position: absolute;
+    top: 190px;
+    left: 30px;
+}
+
+.button3{
+    width: 55px;
+    height: 55px;
+    color: white;
+    background-color: rgba(255, 68, 0, 0);
+    border: 2px solid rgba(255, 68, 0, 0);
+    position: absolute;
+    top: 170px;
+    left: 1253px;
+}
+
+.box3{
+   width: 1366px;
+   height: 100vh;
+   background-color: #CCCCCC;
+   position: absolute;
+   top: 617px;
+}
+
+.box4{
+    width: 325px;
+    height: 443.5px;
+    background-color: white;
+    position: absolute;
+    top: -180px;
+    left: 345px;
+}
+
+.Shop{
+    color: rgba(0, 0, 0, 0.880);
+    font-size: 22px;
+    font-weight: 700;
+    position: absolute;
+    left: 16px;
+    top: 22px;
+}
+
+.img3{
+    position: absolute;
+    top: 100px;
+    width: 140px;
+    height: 100px;
+    left: 16px;
+}
+
+.img4{
+    position: absolute;
+    width: 140px;
+    height: 100px;
+    top: 100px;
+    left: 170px;
+}
+
+.Cleaning{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 200px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Home{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 200px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.img5{
+    position: absolute;
+    width: 140px;
+    height: 100px;
+    left: 16px;
+    top: 250px;
+}
+
+.Decor{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 350px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.img6{
+    position: absolute;
+    width: 140px;
+    height: 100px;
+    left: 170px;
+    top: 250px;
+}
+
+.Bedding{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 350px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.Discover{
+    color: #2162A1;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+    position: absolute;
+    top: 402px;
+    left: 16px;
+}
+
+.Discover:hover{
+    color: #0d365f;
+}
+
+.box5{
+    width: 325px;
+    height: 443.5px;
+    background-color: white;
+    position: absolute;
+    top: -180px;
+    left: 9px;
+}
+
+.Get{
+    color: rgba(0, 0, 0, 0.880);
+    font-size: 22px;
+    font-weight: 700;
+    position: absolute;
+    left: 14px;
+    top: 22px;
+}
+
+.img7{
+    width: 297px;
+    height: 308px;
+    position: absolute;
+    left: 14px;
+    top: 65px;
+}
+
+.gaming{
+    color: #2162A1;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+    position: absolute;
+    top: 402px;
+    left: 14px;
+}
+
+.gaming:hover{
+    color: #0d365f;
+}
+
+.box6{
+    width: 325px;
+    height: 443.5px;
+    background-color: white;
+    position: absolute;
+    top: -180px;
+    left: 680px;
+}
+
+.Fashion{
+    color: rgba(0, 0, 0, 0.880);
+    font-size: 22px;
+    font-weight: 700;
+    position: absolute;
+    left: 14px;
+    top: 22px;
+}
+
+.img8{
+    width: 140px;
+    height: 100px;
+    position: absolute;
+    top: 100px;
+    left: 16px;
+}
+
+.img9{
+    width: 140px;
+    height: 100px;
+    position: absolute;
+    top: 100px;
+    left: 170px;
+}
+
+.Jeans{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    font-weight: 500;
+    top: 200px;
+    left: 16px;
+}
+
+.Tops{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    font-weight: 500;
+    top: 200px;
+    left: 170px;
+}
+
+.img10{
+    position: absolute;
+    width: 140px;
+    height: 100px;
+    left: 16px;
+    top: 250px;
+}
+
+.img11{
+    position: absolute;
+    width: 140px;
+    height: 100px;
+    left: 170px;
+    top: 250px;
+}
+
+.Dresses{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    font-weight: 500;
+    top: 350px;
+    left: 16px;
+}
+
+.Shoes{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    font-weight: 500;
+    top: 350px;
+    left: 170px;
+}
+
+.See{
+    color: #2162A1;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+    position: absolute;
+    top: 402px;
+    left: 16px;
+}
+
+.See:hover{
+    color: #0d365f;
+}
+
+.box7{
+    width: 325px;
+    height: 443.5px;
+    background-color: white;
+    position: absolute;
+    top: -180px;
+    left: 1015px;
+}
+
+.Top{
+    color: rgba(0, 0, 0, 0.880);
+    font-size: 22px;
+    font-weight: 700;
+    position: absolute;
+    left: 14px;
+    top: 22px;
+}
+
+.img12{
+    width: 297px;
+    height: 150px;
+    position: absolute;
+    top: 100px;
+    left: 14px;
+}
+
+.Cooker{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 15px;
+    position: absolute;
+    font-weight: 500;
+    left: 14px;
+    top: 248px;
+}
+
+.img13{
+    width: 93px;
+    height: 73px;
+    position: absolute;
+    top: 285px;
+    left: 14px;
+}
+
+.img14{
+    width: 93px;
+    height: 73px;
+    position: absolute;
+    top: 285px;
+    left: 117px;
+}
+
+.img15{
+    width: 93px;
+    height: 73px;
+    position: absolute;
+    top: 285px;
+    left: 220px;
+}
+
+.Coffee{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 15px;
+    position: absolute;
+    font-weight: 500;
+    left: 14px;
+    top: 356px;
+}
+
+.Pots{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 15px;
+    position: absolute;
+    font-weight: 500;
+    left: 117px;
+    top: 356px;
+}
+
+.Kettles{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 15px;
+    position: absolute;
+    font-weight: 500;
+    left: 220px;
+    top: 356px;
+}
+
+.Explore{
+    color: #2162A1;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+    position: absolute;
+    top: 402px;
+    left: 16px;
+}
+
+.Explore:hover{
+    color: #0d365f;
+}
+
+.box8{
+   width: 1366px;
+   height: 100vh;
+   background-color: #CCCCCC;
+   position: absolute;
+   top: 1234px;
+}
+
+.box9{
+    width: 325px;
+    height: 443.5px;
+    background-color: white;
+    position: absolute;
+    top: -333px;
+    left: 9px;
+}
+
+.New{
+    color: rgba(0, 0, 0, 0.880);
+    font-size: 22px;
+    font-weight: 700;
+    position: absolute;
+    left: 14px;
+    top: 22px;
+}
+
+.img16{
+    position: absolute;
+    top: 100px;
+    width: 140px;
+    height: 100px;
+    left: 16px;
+}
+
+.img17{
+    position: absolute;
+    width: 140px;
+    height: 100px;
+    top: 100px;
+    left: 170px;
+}
+
+.Kitchen{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 200px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Improvement{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 200px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.img18{
+    position: absolute;
+    width: 140px;
+    height: 100px;
+    left: 16px;
+    top: 250px;
+}
+
+.img19{
+    position: absolute;
+    width: 140px;
+    height: 100px;
+    left: 170px;
+    top: 250px;
+}
+
+.decor{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 350px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Bath{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 350px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.latest{
+    color: #2162A1;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+    position: absolute;
+    top: 402px;
+    left: 16px;
+}
+
+.latest:hover{
+    color: #0d365f;
+}
+
+.box10{
+    width: 325px;
+    height: 443.5px;
+    background-color: white;
+    position: absolute;
+    top: -333px;
+    left: 345px;
+}
+
+.Toys{
+    color: rgba(0, 0, 0, 0.880);
+    font-size: 22px;
+    font-weight: 700;
+    position: absolute;
+    left: 14px;
+    top: 22px;
+}
+
+.img20{
+    width: 297px;
+    height: 308px;
+    position: absolute;
+    left: 14px;
+    top: 65px;
+}
+
+.now{
+    color: #2162A1;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+    position: absolute;
+    top: 402px;
+    left: 16px;
+}
+
+.now:hover{
+    color: #0d365f;
+}
+
+.box11{
+    width: 325px;
+    height: 443.5px;
+    background-color: white;
+    position: absolute;
+    top: -333px;
+    left: 680px;
+}
+
+.Gifts{
+    color: rgba(0, 0, 0, 0.880);
+    font-size: 22px;
+    font-weight: 700;
+    position: absolute;
+    left: 14px;
+    top: 22px;
+}
+
+.img21{
+    width: 297px;
+    height: 308px;
+    position: absolute;
+    left: 14px;
+    top: 65px;
+}
+
+.all{
+    color: #2162A1;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+    position: absolute;
+    top: 402px;
+    left: 16px;
+}
+
+.all:hover{
+    color: #0d365f;
+}
+
+.box12{
+    width: 325px;
+    height: 443.5px;
+    background-color: white;
+    position: absolute;
+    top: -333px;
+    left: 1015px;
+}
+
+.Refresh{
+    color: rgba(0, 0, 0, 0.880);
+    font-size: 22px;
+    font-weight: 700;
+    position: absolute;
+    left: 14px;
+    top: 22px;
+}
+
+.img22{
+    position: absolute;
+    top: 65px;
+    width: 140px;
+    height: 127px;
+    left: 16px;
+}
+
+.img23{
+    position: absolute;
+    top: 65px;
+    width: 140px;
+    height: 127px;
+    left: 170px;
+}
+
+.Dining{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 192px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.home{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 192px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.img24{
+    position: absolute;
+    top: 245px;
+    width: 140px;
+    height: 127px;
+    left: 16px;
+}
+
+.img25{
+    position: absolute;
+    top: 245px;
+    width: 140px;
+    height: 127px;
+    left: 170px;
+}
+
+.kitchen{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 371px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Health{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 371px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.more{
+    color: #2162A1;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+    position: absolute;
+    top: 402px;
+    left: 16px;
+}
+
+.more:hover{
+    color: #0d365f;
+}
+
+.box13{
+    width: 325px;
+    height: 443.5px;
+    background-color: white;
+    position: absolute;
+    top: 135px;
+    left: 9px;
+}
+
+.Have{
+    color: rgba(0, 0, 0, 0.880);
+    font-size: 22px;
+    font-weight: 700;
+    position: absolute;
+    left: 14px;
+    top: 22px;
+}
+
+.img26{
+    position: absolute;
+    top: 65px;
+    width: 140px;
+    height: 127px;
+    left: 16px;
+}
+
+.img27{
+    position: absolute;
+    top: 65px;
+    width: 140px;
+    height: 127px;
+    left: 170px;
+}
+
+.Outdoor{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 192px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Learning{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 192px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.img28{
+    position: absolute;
+    top: 245px;
+    width: 140px;
+    height: 127px;
+    left: 16px;
+}
+
+.img29{
+    position: absolute;
+    top: 245px;
+    width: 140px;
+    height: 127px;
+    left: 170px;
+}
+
+.Action{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 371px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Pretend{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 371px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.see{
+    color: #2162A1;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+    position: absolute;
+    top: 402px;
+    left: 16px;
+}
+
+.see:hover{
+    color: #0d365f;
+}
+
+.box14{
+    width: 325px;
+    height: 443.5px;
+    background-color: white;
+    position: absolute;
+    top: 135px;
+    left: 345px;
+}
+
+.Wireless{
+    color: rgba(0, 0, 0, 0.880);
+    font-size: 22px;
+    font-weight: 700;
+    position: absolute;
+    left: 14px;
+    top: 22px;
+}
+
+.img30{
+    position: absolute;
+    top: 65px;
+    width: 140px;
+    height: 127px;
+    left: 16px;
+}
+
+.img31{
+    position: absolute;
+    top: 65px;
+    width: 140px;
+    height: 127px;
+    left: 170px;
+}
+
+.Smartphones{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 192px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Watches{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 192px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.img32{
+    position: absolute;
+    top: 245px;
+    width: 140px;
+    height: 127px;
+    left: 16px;
+}
+
+.img33{
+    position: absolute;
+    top: 245px;
+    width: 140px;
+    height: 127px;
+    left: 170px;
+}
+
+.Headphones{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 371px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Tablets{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 371px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.discover{
+    color: #2162A1;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+    position: absolute;
+    top: 402px;
+    left: 16px;
+}
+
+.discover:hover{
+    color: #0d365f;
+}
+
+.box15{
+    width: 325px;
+    height: 443.5px;
+    background-color: white;
+    position: absolute;
+    top: 135px;
+    left: 680px;
+}
+
+.Level{
+    color: rgba(0, 0, 0, 0.880);
+    font-size: 22px;
+    font-weight: 700;
+    position: absolute;
+    left: 14px;
+    top: 22px;
+}
+
+.img34{
+    position: absolute;
+    top: 65px;
+    width: 140px;
+    height: 127px;
+    left: 16px;
+}
+
+.img35{
+    position: absolute;
+    top: 65px;
+    width: 140px;
+    height: 127px;
+    left: 170px;
+}
+
+.Laptops{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 192px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.PCs{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 192px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.img36{
+    position: absolute;
+    top: 245px;
+    width: 140px;
+    height: 127px;
+    left: 16px;
+}
+
+.img37{
+    position: absolute;
+    top: 245px;
+    width: 140px;
+    height: 127px;
+    left: 170px;
+}
+
+.Hard{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 371px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Monitors{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 371px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.More{
+    color: #2162A1;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+    position: absolute;
+    top: 402px;
+    left: 16px;
+}
+
+.More:hover{
+    color: #0d365f;
+}
+
+.box16{
+    width: 325px;
+    height: 443.5px;
+    background-color: white;
+    position: absolute;
+    top: 135px;
+    left: 1015px;
+}
+
+.Most-loved{
+    color: rgba(0, 0, 0, 0.880);
+    font-size: 22px;
+    font-weight: 700;
+    position: absolute;
+    left: 14px;
+    top: 22px;
+}
+
+.img38{
+    position: absolute;
+    top: 100px;
+    width: 140px;
+    height: 100px;
+    left: 16px;
+}
+
+.img39{
+    position: absolute;
+    width: 140px;
+    height: 100px;
+    top: 100px;
+    left: 170px;
+}
+
+.Backpacks{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 200px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Suitcases{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 200px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.img40{
+    position: absolute;
+    width: 140px;
+    height: 100px;
+    left: 16px;
+    top: 250px;
+}
+
+.img41{
+    position: absolute;
+    width: 140px;
+    height: 100px;
+    left: 170px;
+    top: 250px;
+}
+
+.Accessories{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 350px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Handbags{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 350px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.Discovermore{
+    color: #2162A1;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+    position: absolute;
+    top: 402px;
+    left: 16px;
+}
+
+.Discovermore:hover{
+    color: #0d365f;
+}
+
+.box17{
+   width: 1366px;
+   height: 100vh;
+   background-color: #CCCCCC;
+   position: absolute;
+   top: 1851px;
+}
+
+.box18{
+    width: 325px;
+    height: 443.5px;
+    background-color: white;
+    position: absolute;
+    top: -13px;
+    left: 9px;
+}
+
+.level{
+    color: rgba(0, 0, 0, 0.880);
+    font-size: 22px;
+    font-weight: 700;
+    position: absolute;
+    left: 14px;
+    top: 22px;
+}
+
+.img42{
+    position: absolute;
+    top: 100px;
+    width: 140px;
+    height: 100px;
+    left: 16px;
+}
+
+.img43{
+    position: absolute;
+    top: 100px;
+    width: 140px;
+    height: 100px;
+    left: 170px;
+}
+
+.Makeup{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 200px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Brushes{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 200px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.img44{
+    position: absolute;
+    width: 140px;
+    height: 100px;
+    left: 16px;
+    top: 250px;
+}
+
+.img45{
+    position: absolute;
+    width: 140px;
+    height: 100px;
+    left: 170px;
+    top: 250px;
+}
+
+.Sponges{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 350px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Mirrors{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 350px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.See-more{
+    color: #2162A1;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+    position: absolute;
+    top: 402px;
+    left: 16px;
+}
+
+.See-more:hover{
+    color: #0d365f;
+}
+
+.box19{
+    width: 325px;
+    height: 443.5px;
+    background-color: white;
+    position: absolute;
+    top: -13px;
+    left: 345px;
+}
+
+.watches{
+    color: rgba(0, 0, 0, 0.880);
+    font-size: 22px;
+    font-weight: 700;
+    position: absolute;
+    left: 14px;
+    top: 22px;
+}
+
+.img46{
+    position: absolute;
+    top: 65px;
+    width: 140px;
+    height: 127px;
+    left: 16px;
+}
+
+.img47{
+    position: absolute;
+    top: 65px;
+    width: 140px;
+    height: 127px;
+    left: 170px;
+}
+
+.Women{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 192px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Men{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 192px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.img48{
+    position: absolute;
+    top: 245px;
+    width: 140px;
+    height: 127px;
+    left: 16px;
+}
+
+.img49{
+    position: absolute;
+    top: 245px;
+    width: 140px;
+    height: 127px;
+    left: 170px;
+}
+
+.Girls{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 371px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Boys{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 371px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.DISCOVER{
+    color: #2162A1;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+    position: absolute;
+    top: 402px;
+    left: 16px;
+}
+
+.DISCOVER:hover{
+    color: #0d365f;
+}
+
+.box20{
+    width: 325px;
+    height: 443.5px;
+    background-color: white;
+    position: absolute;
+    top: -13px;
+    left: 680px;
+}
+
+.Gear{
+    color: rgba(0, 0, 0, 0.880);
+    font-size: 22px;
+    font-weight: 700;
+    position: absolute;
+    left: 14px;
+    top: 22px;
+}
+
+.img50{
+    position: absolute;
+    top: 65px;
+    width: 140px;
+    height: 127px;
+    left: 16px;
+}
+
+.img51{
+    position: absolute;
+    top: 65px;
+    width: 140px;
+    height: 127px;
+    left: 170px;
+}
+
+.Clothing{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 192px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Trackers{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 192px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.img52{
+    position: absolute;
+    top: 245px;
+    width: 140px;
+    height: 127px;
+    left: 16px;
+}
+
+.img53{
+    position: absolute;
+    top: 245px;
+    width: 140px;
+    height: 127px;
+    left: 170px;
+}
+
+.Equipment{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 371px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Deals{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 371px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.Discover-more{
+    color: #2162A1;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+    position: absolute;
+    top: 402px;
+    left: 16px;
+}
+
+.Discover-more:hover{
+    color: #0d365f;
+}
+
+.box21{
+    width: 325px;
+    height: 443.5px;
+    background-color: white;
+    position: absolute;
+    top: -13px;
+    left: 1015px;
+}
+
+.Gaming{
+    color: rgba(0, 0, 0, 0.880);
+    font-size: 22px;
+    font-weight: 700;
+    position: absolute;
+    left: 14px;
+    top: 22px;
+}
+
+.img54{
+    position: absolute;
+    top: 65px;
+    width: 140px;
+    height: 127px;
+    left: 16px;
+}
+
+.img55{
+    position: absolute;
+    top: 65px;
+    width: 140px;
+    height: 127px;
+    left: 170px;
+}
+
+.Apparel{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 192px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Hats{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 192px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.img56{
+    position: absolute;
+    top: 245px;
+    width: 140px;
+    height: 127px;
+    left: 16px;
+}
+
+.img57{
+    position: absolute;
+    top: 245px;
+    width: 140px;
+    height: 127px;
+    left: 170px;
+}
+
+.figures{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 371px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Mugs{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 371px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.SEE{
+    color: #2162A1;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+    position: absolute;
+    top: 402px;
+    left: 16px;
+}
+
+.SEE:hover{
+    color: #0d365f;
+}
+
+.box22{
+   width: 1366px;
+   height: 50vh;
+   background-color: #CCCCCC;
+   position: absolute;
+   top: 2468px;
+}
+
+.box23{
+    width: 325px;
+    height: 443.5px;
+    background-color: white;
+    position: absolute;
+    top: -162px;
+    left: 9px;
+}
+
+.Up{
+    color: rgba(0, 0, 0, 0.880);
+    font-size: 22px;
+    font-weight: 700;
+    position: absolute;
+    left: 14px;
+    top: 22px;
+}
+
+.img58{
+    position: absolute;
+    top: 65px;
+    width: 140px;
+    height: 127px;
+    left: 16px;
+}
+
+.img59{
+    position: absolute;
+    top: 65px;
+    width: 140px;
+    height: 127px;
+    left: 170px;
+}
+
+.PC-gaming{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 192px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Xbox{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 192px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.img60{
+    position: absolute;
+    top: 245px;
+    width: 140px;
+    height: 127px;
+    left: 16px;
+}
+
+.img61{
+    position: absolute;
+    top: 245px;
+    width: 140px;
+    height: 127px;
+    left: 170px;
+}
+
+.PlayStation{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 371px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Nintendo{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 371px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.shop{
+    color: #2162A1;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+    position: absolute;
+    top: 402px;
+    left: 16px;
+}
+
+.shop:hover{
+    color: #0d365f;
+}
+
+.box24{
+    width: 325px;
+    height: 443.5px;
+    background-color: white;
+    position: absolute;
+    top: -162px;
+    left: 345px;
+}
+
+.essentials{
+    color: rgba(0, 0, 0, 0.880);
+    font-size: 22px;
+    font-weight: 700;
+    position: absolute;
+    left: 14px;
+    top: 22px;
+}
+
+.img62{
+    position: absolute;
+    top: 65px;
+    width: 140px;
+    height: 127px;
+    left: 16px;
+}
+
+.img63{
+    position: absolute;
+    top: 65px;
+    width: 140px;
+    height: 127px;
+    left: 170px;
+}
+
+.coffee{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 192px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Multi{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 192px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.img64{
+    position: absolute;
+    top: 245px;
+    width: 140px;
+    height: 127px;
+    left: 16px;
+}
+
+.img65{
+    position: absolute;
+    top: 245px;
+    width: 140px;
+    height: 127px;
+    left: 170px;
+}
+
+.Vacuum{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 371px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Iron{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 371px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.Now{
+    color: #2162A1;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+    position: absolute;
+    top: 402px;
+    left: 16px;
+}
+
+.Now:hover{
+    color: #0d365f;
+}
+
+.box25{
+    width: 325px;
+    height: 443.5px;
+    background-color: white;
+    position: absolute;
+    top: -162px;
+    left: 680px;
+}
+
+.Look{
+    color: rgba(0, 0, 0, 0.880);
+    font-size: 22px;
+    font-weight: 700;
+    position: absolute;
+    left: 14px;
+    top: 22px;
+}
+
+.img66{
+    position: absolute;
+    top: 65px;
+    width: 140px;
+    height: 127px;
+    left: 16px;
+}
+
+.img67{
+    position: absolute;
+    top: 65px;
+    width: 140px;
+    height: 127px;
+    left: 170px;
+}
+
+.For{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 192px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Him{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 192px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.img68{
+    position: absolute;
+    top: 245px;
+    width: 140px;
+    height: 127px;
+    left: 16px;
+}
+
+.img69{
+    position: absolute;
+    top: 245px;
+    width: 140px;
+    height: 127px;
+    left: 170px;
+}
+
+.Teans{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 371px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Kids{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 371px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.MORE{
+    color: #2162A1;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+    position: absolute;
+    top: 402px;
+    left: 16px;
+}
+
+.MORE:hover{
+    color: #0d365f;
+}
+
+.box26{
+    width: 325px;
+    height: 443.5px;
+    background-color: white;
+    position: absolute;
+    top: -162px;
+    left: 1015px;
+}
+
+.toys{
+    color: rgba(0, 0, 0, 0.880);
+    font-size: 22px;
+    font-weight: 700;
+    position: absolute;
+    left: 14px;
+    top: 22px;
+}
+
+.img70{
+    position: absolute;
+    top: 65px;
+    width: 140px;
+    height: 127px;
+    left: 16px;
+}
+
+.img71{
+    position: absolute;
+    top: 65px;
+    width: 140px;
+    height: 127px;
+    left: 170px;
+}
+
+.Ride{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 192px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Building{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 192px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.img72{
+    position: absolute;
+    top: 245px;
+    width: 140px;
+    height: 127px;
+    left: 16px;
+}
+
+.img73{
+    position: absolute;
+    top: 245px;
+    width: 140px;
+    height: 127px;
+    left: 170px;
+}
+
+.Dolls{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 371px;
+    left: 16px;
+    font-weight: 500;
+}
+
+.Swimming{
+    color: rgba(0, 0, 0, 0.840);
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    top: 371px;
+    left: 170px;
+    font-weight: 500;
+}
+
+.All{
+    color: #2162A1;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 500;
+    position: absolute;
+    top: 402px;
+    left: 16px;
+}
+
+.All:hover{
+    color: #0d365f;
+}
+
+.box27{
+    width: 1366px;
+    height: 39vh;
+    background-color: white;
+    position: absolute;
+    top: 2795px;
+}
+
+.personalized{
+    color: rgba(0, 0, 0, 0.930);
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    left: 485px;
+    top: 80px;
+}
+
+.button4{
+    width: 225px;
+    height: 33px;
+    background-color: #FFD814;
+    border: 2px solid #FFD814;
+    border-radius: 23px;
+    position: absolute;
+    top: 125px;
+    left: 573px;
+}
+
+.button4:hover{
+    background-color: #f5cd07;
+    border: 2px solid #f5cd07;
+}
+
+.button4 .Sing{
+    font-size: 13.5px;
+    font-weight: 400;
+    position: absolute;
+    top: 3px;
+    left: 91px;
+}
+
+.new{
+    font-size: 11px;
+    font-weight: 700;
+    position: absolute;
+    left: 617px;
+    top: 162px;
+}
+
+.Start{
+    color: #0f479bc7;
+    font-size: 11px;
+    font-weight: 700;
+    position: absolute;
+    top: 162px;
+    left: 700px;
+}
+
+.Start:hover{
+    color: #000000b0;
+}
+
+.button5{
+    width: 1366px;
+    height: 49px;
+    background-color: #232f3ee5;
+    border: 2px solid #232f3e00;
+    position: absolute;
+    top: 3035px;
+}
+
+.button5:hover{
+    background-color: #232f3ed3;
+}
+
+.Back{
+    color: #FFFFFF;
+    font-size: 14px;
+    position: absolute;
+    top: 3051px;
+    left: 650px;
+    text-decoration: none;
+}
+
+.box28{
+    width: 1366px;
+    height: 525px;
+    background-color: #232F3E;
+    position: absolute;
+    top: 3084px;
+}
+
+.paragraf1{
+    color: white;
+    display: inline-block;
+    margin-left: 150px;
+    font-weight: 700;
+    margin-top: 50px;
+}
+
+.paragraf2-Careers{
+    color: #dddddde0;
+    text-decoration: none;
+    position: absolute;
+    left: 150px;
+    top: 82px;
+    font-weight: 600;
+    font-size: 14.5px;
+}
+
+.paragraf2-Careers:hover{
+    text-decoration: underline;
+}
+
+.paragraf2-Sell{
+    color: #dddddde0;
+    text-decoration: none;
+    position: absolute;
+    left: 421px;
+    top: 82px;
+    font-weight: 600;
+    font-size: 14.5px;
+}
+
+.paragraf2-Sell:hover{
+    text-decoration: underline;
+}
+
+.paragraf2-Amazon{
+    color: #dddddde0;
+    text-decoration: none;
+    position: absolute;
+    left: 734px;
+    top: 82px;
+    font-weight: 600;
+    font-size: 14.5px;
+}
+
+.paragraf2-Amazon:hover{
+    text-decoration: underline;
+}
+
+.paragraf2-COVID-19{
+    color: #dddddde0;
+    text-decoration: none;
+    position: absolute;
+    left: 1092px;
+    top: 82px;
+    font-weight: 600;
+    font-size: 14.5px;
+}
+
+.paragraf2-COVID-19:hover{
+    text-decoration: underline;
+}
+
+.paragraf3-Blog{
+    color: #dddddde0;
+    text-decoration: none;
+    position: absolute;
+    left: 150px;
+    top: 111px;
+    font-weight: 600;
+    font-size: 14.5px;
+}
+
+.paragraf3-Blog:hover{
+    text-decoration: underline;
+}
+
+.paragraf3-on{
+    color: #dddddde0;
+    text-decoration: none;
+    position: absolute;
+    left: 421px;
+    top: 111px;
+    font-weight: 600;
+    font-size: 14.5px;
+}
+
+.paragraf3-on:hover{
+    text-decoration: underline;
+}
+
+.paragraf3-Shop{
+    color: #dddddde0;
+    text-decoration: none;
+    position: absolute;
+    left: 734px;
+    top: 111px;
+    font-weight: 600;
+    font-size: 14.5px;
+}
+
+.paragraf3-Shop:hover{
+    text-decoration: underline;
+}
+
+.paragraf3-Your{
+    color: #dddddde0;
+    text-decoration: none;
+    position: absolute;
+    left: 1092px;
+    top: 132px;
+    font-weight: 600;
+    font-size: 14.5px;
+}
+
+.paragraf3-Your:hover{
+    text-decoration: underline;
+}
+
+.paragraf4-About{
+    color: #dddddde0;
+    text-decoration: none;
+    position: absolute;
+    left: 150px;
+    top: 140px;
+    font-weight: 600;
+    font-size: 14.5px;
+}
+
+.paragraf4-About:hover{
+    text-decoration: underline;
+}
+
+.paragraf4-apps{
+    color: #dddddde0;
+    text-decoration: none;
+    position: absolute;
+    left: 421px;
+    top: 140px;
+    font-weight: 600;
+    font-size: 14.5px;
+}
+
+.paragraf4-apps:hover{
+    text-decoration: underline;
+}
+
+.paragraf4-Reload{
+    color: #dddddde0;
+    text-decoration: none;
+    position: absolute;
+    left: 734px;
+    top: 140px;
+    font-weight: 600;
+    font-size: 14.5px;
+}
+
+.paragraf4-Reload:hover{
+    text-decoration: underline;
+}
+
+.paragraf4-Your{
+    color: #dddddde0;
+    text-decoration: none;
+    position: absolute;
+    left: 1092px;
+    top: 161px;
+    font-weight: 600;
+    font-size: 14.5px;
+}
+
+.paragraf4-Your:hover{
+    text-decoration: underline;
+}
+
+.paragraf5-Investor{
+    color: #dddddde0;
+    text-decoration: none;
+    position: absolute;
+    left: 150px;
+    top: 170px;
+    font-weight: 600;
+    font-size: 14.5px;
+}
+
+.paragraf5-Investor:hover{
+    text-decoration: underline;
+}
+
+.paragraf5-Become{
+    color: #dddddde0;
+    text-decoration: none;
+    position: absolute;
+    left: 421px;
+    top: 170px;
+    font-weight: 600;
+    font-size: 14.5px;
+}
+
+.paragraf5-Become:hover{
+    text-decoration: underline;
+}
+
+.paragraf5-Currency{
+    color: #dddddde0;
+    text-decoration: none;
+    position: absolute;
+    left: 734px;
+    top: 170px;
+    font-weight: 600;
+    font-size: 14.5px;
+}
+
+.paragraf5-Currency:hover{
+    text-decoration: underline;
+}
+
+.paragraf5-Shipping{
+    color: #dddddde0;
+    text-decoration: none;
+    position: absolute;
+    left: 1092px;
+    top: 190px;
+    font-weight: 600;
+    font-size: 14.5px;
+}
+
+.paragraf5-Shipping:hover{
+    text-decoration: underline;
+}
+
+.paragraf6-Devices{
+    color: #dddddde0;
+    text-decoration: none;
+    position: absolute;
+    left: 150px;
+    top: 202px;
+    font-weight: 600;
+    font-size: 14.5px;
+}
+
+.paragraf6-Devices:hover{
+    text-decoration: underline;
+}
+
+.paragraf6-Advertist{
+    color: #dddddde0;
+    text-decoration: none;
+    position: absolute;
+    left: 421px;
+    top: 202px;
+    font-weight: 600;
+    font-size: 14.5px;
+}
+
+.paragraf6-Advertist:hover{
+    text-decoration: underline;
+}
+
+.paragraf6-Returns{
+    color: #dddddde0;
+    text-decoration: none;
+    position: absolute;
+    left: 1092px;
+    top: 241px;
+    font-weight: 600;
+    font-size: 14.5px;
+}
+
+.paragraf6-Returns:hover{
+    text-decoration: underline;
+}
+
+.paragraf7-Science{
+    color: #dddddde0;
+    text-decoration: none;
+    position: absolute;
+    left: 150px;
+    top: 232px;
+    font-weight: 600;
+    font-size: 14.5px;
+}
+
+.paragraf7-Science:hover{
+    text-decoration: underline;
+}
+
+.paragraf7-Us{
+    color: #dddddde0;
+    text-decoration: none;
+    position: absolute;
+    left: 421px;
+    top: 232px;
+    font-weight: 600;
+    font-size: 14.5px;
+}
+
+.paragraf7-Us:hover{
+    text-decoration: underline;
+}
+
+.paragraf7-Manage{
+    color: #dddddde0;
+    text-decoration: none;
+    position: absolute;
+    left: 1092px;
+    top: 293px;
+    font-weight: 600;
+    font-size: 14.5px;
+}
+
+.paragraf7-Manage:hover{
+    text-decoration: underline;
+}
+
+.paragraf8-Host{
+    color: #dddddde0;
+    text-decoration: none;
+    position: absolute;
+    left: 421px;
+    top: 261px;
+    font-weight: 600;
+    font-size: 14.5px;
+}
+
+.paragraf8-Host:hover{
+    text-decoration: underline;
+}
+
+.paragraf8-Help{
+    color: #dddddde0;
+    text-decoration: none;
+    position: absolute;
+    left: 1092px;
+    top: 344px;
+    font-weight: 600;
+    font-size: 14.5px;
+}
+
+.paragraf8-Help:hover{
+    text-decoration: underline;
+}
+
+.paragraf9-See{
+    color: #dddddde0;
+    text-decoration: none;
+    position: absolute;
+    left: 433px;
+    top: 290px;
+    font-weight: 600;
+    font-size: 14.5px;
+}
+
+.paragraf9-See:hover{
+    text-decoration: underline;
+}
+
+.i{
+    color: white;
+    font-size: 22px;
+    font-weight: 700;
+    position: absolute;
+    top: 282px;
+    left: 421px;
+}
+
+.hr{
+    width: 1366px;
+    height: 1pt;
+    background-color: rgba(255, 255, 255, 0.180);
+    margin: 40px 0px 0px;
+}
+
+.img74{
+    width: 86px;
+    height: 35px;
+    position: absolute;
+    top: 455px;
+    left: 440px;
+}
+
+.box29{
+    width: 132px;
+    height: 34px;
+    border: 1px solid #ffffff93;
+    border-radius: 3px;
+    position: absolute;
+    top: 449px;
+    left: 615px;
+}
+
+.img75{
+    position: absolute;
+    top: 8px;
+    left: 15.5px;
+}
+
+.English{
+    color: #CCCCCC;
+    position: absolute;
+    left: 40px;
+    top: 6px;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.i1{
+    color: #ccccccc4;
+    rotate: 28deg;
+    position: absolute;
+    left: 112px;
+    top: -3px;
+    text-decoration: none;
+    font-size: 19px;
+}
+
+.i2{
+    color: #ccccccc4;
+    rotate: 88deg;
+    position: absolute;
+    left: 112px;
+    top: 4px;
+    text-decoration: none;
+    font-size: 21px;
+}
+
+.box30{
+    width: 156px;
+    height: 34px;
+    border: 1px solid #ffffff93;
+    border-radius: 3px;
+    position: absolute;
+    left: 753px;
+    top: 449px;
+}
+
+.S{
+    color: #FFFFFF;
+    text-decoration: none;
+    font-size: 16px;
+    position: absolute;
+    left: 8px;
+    top: 3px;
+}
+
+.USD{
+    color: #CCCCCC;
+    text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    left: 28px;
+    top: 6px;
+    font-weight: 500;
+}
+
+.box31{
+    width: 141px;
+    height: 34px;
+    border: 1px solid #ffffff93;
+    border-radius: 3px;
+    position: absolute;
+    left: 915px;
+    top: 449px;
+}
+
+i3{
+    color: white;
+    font-size: 17px;
+    position: absolute;
+    left: 8px;
+    top: 7px;
+    text-decoration: none;
+}
+
+.United{
+    text-decoration: none;
+    color: #CCCCCC;
+    font-size: 14px;
+    font-weight: 500;
+    position: absolute;
+    left: 30px;
+    top: 5px;
+}
+
+.box32{
+    width: 1366px;
+    height: 512px;
+    background-color: #131a22;
+    position: absolute;
+    top: 3609px;
+}
+
+.Music{
+    font-size: 12px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    top: 32.5px;
+    left: 215px;
+}
+
+.Music:hover{
+    text-decoration: underline;
+}
+
+.Stream{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+    font-weight: 500;
+    position: absolute;
+    left: 215px;
+    top: 48px;
+}
+
+.Stream:hover{
+    text-decoration: underline;
+}
+
+.Ads{
+    font-size: 12px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    left: 360px;
+    top: 32.5px;
+}
+
+.Ads:hover{
+    text-decoration: underline;
+}
+
+.Reach{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+    font-weight: 500;
+    position: absolute;
+    left: 360px;
+    top: 48px;
+}
+
+.Reach:hover{
+    text-decoration: underline;
+}
+
+.pm{
+    font-size: 12px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    left: 520px;
+    top: 32.5px;
+}
+
+.pm:hover{
+    text-decoration: underline;
+}
+
+.Score{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+    font-weight: 500;
+    position: absolute;
+    left: 520px;
+    top: 48px;
+}
+
+.Score:hover{
+    text-decoration: underline;
+}
+
+.AbeBooks{
+    font-size: 12px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    left: 670px;
+    top: 32.5px;
+}
+
+.AbeBooks:hover{
+    text-decoration: underline;
+}
+
+.Books{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+    font-weight: 500;
+    position: absolute;
+    left: 670px;
+    top: 48px;
+}
+
+.Books:hover{
+    text-decoration: underline;
+}
+
+.ACX{
+    font-size: 12px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    left: 814px;
+    top: 32.5px;
+}
+
+.ACX:hover{
+    text-decoration: underline;
+}
+
+.Audiobook{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+    font-weight: 500;
+    position: absolute;
+    left: 814px;
+    top: 48px;
+}
+
+.Audiobook:hover{
+    text-decoration: underline;
+}
+
+.SELL{
+    font-size: 12px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    left: 948px;
+    top: 32.5px;
+}
+
+.SELL:hover{
+    text-decoration: underline;
+}
+
+
+.start{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+    font-weight: 500;
+    position: absolute;
+    left: 948px;
+    top: 48px;
+}
+
+.start:hover{
+    text-decoration: underline;
+}
+
+.Veeqo{
+    font-size: 12px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    left: 1100px;
+    top: 32.5px;
+}
+
+.Veeqo:hover{
+    text-decoration: underline;
+}
+
+.Shipping{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+    font-weight: 500;
+    position: absolute;
+    left: 1100px;
+    top: 48px;
+}
+
+.Shipping:hover{
+    text-decoration: underline;
+}
+
+.Amazon{
+    font-size: 12px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    left: 215px;
+    top: 115px;
+}
+
+.Amazon:hover{
+    text-decoration: underline;
+}
+
+.Everything{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+    font-weight: 500;
+    position: absolute;
+    top: 130px;
+    left: 215px;
+}
+
+.Everything:hover{
+    text-decoration: underline;
+}
+
+.AmazonGlobal{
+    font-size: 12px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    left: 360px;
+    top: 115px;
+}
+
+.AmazonGlobal:hover{
+    text-decoration: underline;
+}
+
+.Ship{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+    font-weight: 500;
+    position: absolute;
+    top: 130px;
+    left: 360px;
+}
+
+.Ship:hover{
+    text-decoration: underline;
+}
+
+.Services{
+    font-size: 12px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    top: 115px;
+    left: 520px;
+}
+
+.Services:hover{
+    text-decoration: underline;
+}
+
+.Scalable{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+    font-weight: 500;
+    position: absolute;
+    top: 148px;
+    left: 520px;
+}
+
+.Scalable:hover{
+    text-decoration: underline;
+}
+
+.Audible{
+    font-size: 12px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    top: 115px;
+    left: 670px;
+}
+
+.Audible:hover{
+    text-decoration: underline;
+}
+
+.Listen{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+    font-weight: 500;
+    position: absolute;
+    top: 130px;
+    left: 670px;
+}
+
+.Listen:hover{
+    text-decoration: underline;
+}
+
+.Office{
+    font-size: 12px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    top: 115px;
+    left: 814px;
+}
+
+.Office:hover{
+    text-decoration: underline;
+}
+
+.Find{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+    font-weight: 500;
+    position: absolute;
+    top: 130px;
+    left: 814px;
+}
+
+.Find:hover{
+    text-decoration: underline;
+}
+
+.Goodreads{
+    font-size: 12px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    top: 115px;
+    left: 948px;
+}
+
+.Goodreads:hover{
+    text-decoration: underline;
+}
+
+.Book{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+    font-weight: 500;
+    position: absolute;
+    top: 130px;
+    left: 948px;
+}
+
+.Book:hover{
+    text-decoration: underline;
+}
+
+.IMDb{
+    font-size: 12px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    top: 115px;
+    left: 1100px;
+}
+
+.IMDb:hover{
+    text-decoration: underline;
+}
+
+.Movies{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+    font-weight: 500;
+    position: absolute;
+    top: 130px;
+    left: 1100px;
+}
+
+.Movies:hover{
+    text-decoration: underline;
+}
+
+.IMDbPro{
+    font-size: 12px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    top: 218px;
+    left: 215px;
+}
+
+.IMDbPro:hover{
+    text-decoration: underline;
+}
+
+.get{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+    font-weight: 500;
+    position: absolute;
+    top: 233px;
+    left: 215px;
+}
+
+.get:hover{
+    text-decoration: underline;
+}
+
+.Kindle{
+    font-size: 12px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    top: 218px;
+    left: 360px;
+}
+
+.Kindle:hover{
+    text-decoration: underline;
+}
+
+.Indie{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+    font-weight: 500;
+    position: absolute;
+    top: 250px;
+    left: 360px;
+}
+.Indie:hover{
+    text-decoration: underline;
+}
+
+.Prime{
+    font-size: 12px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    top: 218px;
+    left: 520px;
+}
+
+.Prime:hover{
+    text-decoration: underline;
+}
+
+.Video{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+    font-weight: 500;
+    position: absolute;
+    top: 233px;
+    left: 520px;
+}
+
+.Video:hover{
+    text-decoration: underline;
+}
+
+.Shopbop{
+    font-size: 12px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    top: 218px;
+    left: 670px;
+}
+
+.Shopbop:hover{
+    text-decoration: underline;
+}
+
+.Designer{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+    font-weight: 500;
+    position: absolute;
+    top: 233px;
+    left: 670px;
+}
+
+.Designer:hover{
+    text-decoration: underline;
+}
+
+.Woot{
+    font-size: 12px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    top: 218px;
+    left: 814px;
+}
+
+.Woot:hover{
+    text-decoration: underline;
+}
+
+.Shenanigans{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+    font-weight: 500;
+    position: absolute;
+    top: 233px;
+    left: 814px;
+}
+
+.Shenanigans:hover{
+    text-decoration: underline;
+}
+
+.Zappos{
+    font-size: 12px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    top: 218px;
+    left: 948px;
+}
+
+.Zappos:hover{
+    text-decoration: underline;
+}
+
+.SHOES{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+    font-weight: 500;
+    position: absolute;
+    top: 233px;
+    left: 948px;
+}
+
+.SHOES:hover{
+    text-decoration: underline;
+}
+
+.Ring{
+    font-size: 12px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    top: 218px;
+    left: 1100px;
+}
+
+.Ring:hover{
+    text-decoration: underline;
+}
+
+.Smart{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+    font-weight: 500;
+    position: absolute;
+    top: 233px;
+    left: 1100px;
+}
+
+.Smart:hover{
+    text-decoration: underline;
+}
+
+.eero{
+    font-size: 12px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    top: 320px;
+    left: 360px;
+}
+
+.eero:hover{
+    text-decoration: underline;
+}
+
+.Room{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+    font-weight: 500;
+    position: absolute;
+    top: 335px;
+    left: 360px;
+}
+
+.Room:hover{
+    text-decoration: underline;
+}
+
+.Blink{
+    font-size: 12px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    top: 320px;
+    left: 520px;
+}
+
+.Blink:hover{
+    text-decoration: underline;
+}
+
+.smart{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+    font-weight: 500;
+    position: absolute;
+    top: 335px;
+    left: 520px;
+}
+
+.smart:hover{
+    text-decoration: underline;
+}
+
+.Neighbors{
+    font-size: 12px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    top: 320px;
+    left: 670px;
+}
+
+.Neighbors:hover{
+    text-decoration: underline;
+}
+
+.Real-Time{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+    font-weight: 500;
+    position: absolute;
+    top: 335px;
+    left: 670px;
+}
+
+.Real-Time:hover{
+    text-decoration: underline;
+}
+
+.Subscription{
+    font-size: 12px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    top: 320px;
+    left: 814px;
+}
+
+.Subscription:hover{
+    text-decoration: underline;
+}
+
+.boxes-right{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+    font-weight: 500;
+    position: absolute;
+    top: 352.5px;
+    left: 814px;
+}
+
+.boxes-right:hover{
+    text-decoration: underline;
+}
+
+.PillPack{
+    font-size: 12px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    top: 320px;
+    left: 948px;
+}
+
+.PillPack:hover{
+    text-decoration: underline;
+}
+
+.Pharmacy{
+    font-size: 12px;
+    text-decoration: none;
+    color: #999999;
+    font-weight: 500;
+    position: absolute;
+    top: 335px;
+    left: 948px;
+}
+
+.Pharmacy:hover{
+    text-decoration: underline;
+}
+
+.Conditions{
+    font-size: 13px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    top: 440px;
+    left: 418px;
+}
+
+.Conditions:hover{
+    text-decoration: underline;
+}
+
+.Privecy{
+    font-size: 13px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    top: 440px;
+    left: 542px;
+}
+
+.Privecy:hover{
+    text-decoration: underline;
+}
+
+.Consumer{
+    font-size: 13px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    top: 440px;
+    left: 642px;
+}
+
+.Consumer:hover{
+    text-decoration: underline;
+}
+
+.Choices{
+    font-size: 13px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    top: 440px;
+    left: 900px;
+}
+
+.Choices:hover{
+    text-decoration: underline;
+}
+
+.affiliates{
+    font-size: 13px;
+    text-decoration: none;
+    color: #DDDDDD;
+    font-weight: 500;
+    position: absolute;
+    top: 465px;
+    left: 601.5px;
+}
