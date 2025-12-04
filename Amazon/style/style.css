@@ -1,3 +1,7 @@
+body{
+    overflow-x: hidden;
+}
+
 .box{
     width: 1366px;
     height: 70px;
@@ -3645,4 +3649,5 @@ i3{
     position: absolute;
     top: 465px;
     left: 601.5px;
+
 }
